@@ -120,8 +120,7 @@ Cálculo de error del voltaje de Thévenin
 ![image](https://user-images.githubusercontent.com/116772752/211443716-5fb16896-613f-416a-b68b-88803b33ad06.png)
 
 4. VIDEO:
-ghfkmjhgfki
-
+https://youtu.be/XrkOn4OXeHU
 5. CONCLUSIONES:
 • El teorema de Thevenin comprende una rama importante en la realizacion de ejercicios de fundamientos de circuitos lo cual se compone de caracteristicas aprendidas anterioremente es importante tomar en cuaenta cuando se tenga dudas de las resoluciones de ejercicios de circuitos paralelos.
 
