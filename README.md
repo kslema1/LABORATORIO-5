@@ -75,3 +75,62 @@ Figura 3.4. Anule el efecto de las fuentes de alimentación. Desconecte R5 y des
 
 Figura 3.5. Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida el voltaje en el mismo.
 
+![image](https://user-images.githubusercontent.com/116772752/211436812-3d2acd13-8574-4259-9af2-637a7d066b56.png)
+
+Figura 3.6. Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida la corriente en el mismo.
+
+![image](https://user-images.githubusercontent.com/116772752/211436848-c632f31c-16af-40f3-9dab-db8806173186.png)
+
+Figura 3.7. Circuito equivalente de Thévenin con la medición de la corriente en la resistencia R_5
+
+3.3.3. Mida el voltaje y la corriente en el resistor R5, anote los resultados en la tabla 3.2.
+
+![image](https://user-images.githubusercontent.com/116772752/211440141-eed71ac8-f0af-465f-b027-9a6884ddd85c.png)
+
+3.3.4. Desconecte el resistor R5 y mida el voltaje en el circuito abierto. Anote el valor medido en la tabla 5.1.
+
+![image](https://user-images.githubusercontent.com/116772752/211443413-1b1fecdb-69f0-41a3-a08c-1a4c9b9cb2b5.png)
+
+3.3.5. Anule el efecto de las fuentes de alimentación. Desconecte R5 y desde el circuito abierto resultante mida la resistencia equivalente. Anote el valor medido en la tabla 3.1.
+
+![image](https://user-images.githubusercontent.com/116772752/211443471-c88dad3b-81fd-4712-8f68-bbc1fc8b1b8d.png)
+
+![image](https://user-images.githubusercontent.com/116772752/211443501-cb051e42-fbe4-4fc8-a0b4-3e7d3b52c944.png)
+
+3.3.6. Implemente el circuito equivalente de Thévenin agregue el resistor R5 y mida la corriente y el voltaje en el mismo, anote los resultados en la tabla 3.2.
+
+![image](https://user-images.githubusercontent.com/116772752/211443561-b4d47331-f6cd-47b6-b967-b04d4f2652fb.png)
+
+![image](https://user-images.githubusercontent.com/116772752/211443574-8396c9fb-5093-4da9-88b0-78ac3a80b6f2.png)
+
+Tabla 3.1. Valores del Circuito Equivalente de Thévenin
+
+![image](https://user-images.githubusercontent.com/116772752/211443605-a166292d-23b6-43d9-adcf-d9112996760d.png)
+
+Tabla 3.2. Comprobación del Teorema de Thévenin.
+![image](https://user-images.githubusercontent.com/116772752/211443638-ef0926d7-27ca-4503-98b7-9e7ef44cf887.png)
+
+3.1.4. Verifique el cumplimiento del Teorema de Thévenin y compare los resultados obtenidos prácticamente con los obtenidos analíticamente. Realice sus conclusiones.
+Después de haber aplicado el teorema de Thévenin en el circuito propuesto, pues se pudo comprobar que, si se cumple, ya que al comparar con los resultados obtenidos del simulador nos damos cuenta de que los valores no tienen una gran diferencia y es por eso que a continuación se ha realizado el cálculo de margen de error para saber cuánto es el porcentaje que estas varían.
+
+Cálculo de error del voltaje de Thévenin
+
+![image](https://user-images.githubusercontent.com/116772752/211443687-bca4a838-ee2d-4967-904d-3a2295fde15d.png)
+
+![image](https://user-images.githubusercontent.com/116772752/211443716-5fb16896-613f-416a-b68b-88803b33ad06.png)
+
+4. VIDEO:
+ghfkmjhgfki
+
+5. CONCLUSIONES:
+• El teorema de Thevenin comprende una rama importante en la realizacion de ejercicios de fundamientos de circuitos lo cual se compone de caracteristicas aprendidas anterioremente es importante tomar en cuaenta cuando se tenga dudas de las resoluciones de ejercicios de circuitos paralelos.
+
+• La resolución de ejercicios aplicando el teorema de Thevenin es tambien tener en cuenta los metodos aprendidos aplicados en las leyes de kirchoff el teorema indica que debes separar por partes cada malla del circuito.
+
+6. RECOMENDACIONES:
+• Al momento de realizar los cálculos tener en cuenta el tipo de multímetro y en que parte del multímetro se desea hacer la consulta ya que si se hace mal uso de este se podría perder el multímetro las protoboards tratar de distribuir bien sus funciones y no poner todo en un solo lugar.
+
+• En los cálculos tener muy en cuenta la formula del teorema de Thevenin ya que se desean los cálculos aplicando ese método tomar en cuenta la interrogante que nos pide encontrar y realizar cálculos preciosos, los componentes de experimento tener en cuenta y revisarlos antes de ponerlos en usa controlar el voltaje de entrada y realizar el trabajo con las indicaciones correspondientes.
+
+7. BIBLIOGRAFÍA:
+Floyd, T. L. (2007). Principios de Circuitos Electronicos. Mexico: Pearson educación.
